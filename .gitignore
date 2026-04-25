@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .env
 *.db
+
+
+# Environment files
+.env
+.env.local
+.env.*.local
