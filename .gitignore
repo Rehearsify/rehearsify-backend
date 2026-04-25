@@ -1,9 +1,11 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
+*.py[cod]
 .env
 *.db
-
+postgres_data/  # Si decides guardar la data aquí
 
 # Environment files
 .env
